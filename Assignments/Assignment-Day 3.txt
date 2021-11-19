@@ -1,0 +1,7 @@
+Create a Logistic Regression model on Azure ML Studio 
+
+The dataset named ‘Breast cancer data’ is given under Samples in the Saved Datasets. Build logistic regression model to predict whether patient has cancer or not in azure Machine learning studio. Also perform required data preprocessing activities on dataset, if required. 
+
+The link for the azure machine learning studio is:
+
+https://studio.azureml.net/
