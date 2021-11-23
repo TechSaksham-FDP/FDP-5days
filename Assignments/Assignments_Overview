@@ -1,0 +1,57 @@
+Day 1:
+
+Data Visualization using Matplotlib 
+
+Matplotlib is a Python plotting library that produces high-quality 
+charts and figures, which helps us visualize extensive data to 
+understand better. The data is given to you, in the form of list 
+in the Jupyter Notebook. Analyze the data and plot the graphs for
+the following questions. 
+
+Read Total profit of all months and show it using a line plot 
+
+Read all product sales data and show it  using a multiline plot 
+
+Read toothpaste sales data of each month and show it using a scatter plot 
+
+Read face cream and face-wash product sales data and show it using 
+the bar chart. Save this plot to your hard disk 
+
+Calculate total sale data for last year for each product and show
+it using a Pie chart
+
+
+Day 2:
+
+Create Multi Linear Regression Model 
+
+To calculate an individual’s home loan approval limit, we not only need
+his age but also his credit rating and other features are also considered
+such as age, credit rating, number of children’s, etc. The data set named
+‘loan-approval-dataset’ is given to you.  
+
+Implement linear regression with multiple features (also known as 
+multiple linear regressions) to predict loan approval limit. 
+
+Day 3:
+
+Create a Logistic Regression model on Azure ML Studio 
+
+The dataset named ‘Breast cancer’ is there in the saved Datasets. Build 
+logistic regression model to predict whether patient has cancer or not 
+in azure Machine learning studio. Also perform required data preprocessing
+activities on dataset, if required. 
+
+https://studio.azureml.net/
+
+
+Day 4:
+
+Create a simple CNN model for Image Classification 
+
+In this exercise, Create a simple CNN-based image classifier for 
+images of MNIST dataset. Try to add different filters and pooling 
+layers to the CNN network and calculate the overall accuracy of the 
+model.
+
+
